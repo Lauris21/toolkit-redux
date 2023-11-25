@@ -39,3 +39,6 @@ export const store = configureStore({
 ```
 
 5. Usamos el estado y las acciones de Redux en el componente
+
+usamos -> `useSelector()` para coger algo del store
+y --> `useDispatch()` para despachar acciones
